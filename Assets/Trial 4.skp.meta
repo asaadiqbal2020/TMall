@@ -1,0 +1,782 @@
+fileFormatVersion: 2
+guid: 549fb6adf6362d84a8ebce171b0fc827
+SketchUpImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 042-samsung-experience-boutique-store-india-1
+    second: {fileID: 2100000, guid: 004b7213a30fd0344abe2da994d47e8d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2100000, guid: 263b4184817d9a84583836ae2f841dc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2100000, guid: e1781ffae81405141a8910a41480a352, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 33
+    second: {fileID: 2100000, guid: c8c4fef756d15af4795a06d53e73ec55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4
+    second: {fileID: 2100000, guid: b81064c8067dc094691bb14be6bd4930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 5607391039_bce6d65d26_z-copy
+    second: {fileID: 2100000, guid: f4cf43d3be2b10e4fa812c8331fb1e92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 80270427-3d-modern-office-space-interior-render
+    second: {fileID: 2100000, guid: 502b6c9ef65e84e4b8d20cfe60e79b29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 81733002-3d-modern-office-space-interior-render
+    second: {fileID: 2100000, guid: 3d0a616505988b5469ced4e19ff14454, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9024646f1171812609210b86e1103232
+    second: {fileID: 2100000, guid: d1819f7878dbd75419885e6f9f06c795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 95e406ed5be62f6ae1d82af9e08a2a20
+    second: {fileID: 2100000, guid: f0818fc79e62cef429e881792355c66e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 9a3629db836ba784b8854021d79b3d52
+    second: {fileID: 2100000, guid: 0b35b05536a942c4db10666a24eaa8cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Asus_pro_shop
+    second: {fileID: 2100000, guid: 68c37ffc355ce7549ba4ddc2c70cef84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capture
+    second: {fileID: 2100000, guid: e61a4ceee3a7b3349a85a04567936ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Capture1
+    second: {fileID: 2100000, guid: 25f2bb1b18b478141ac8010cf1263fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DefaultMaterial
+    second: {fileID: 2100000, guid: b3104aaf70fdd114295d0abf35e49273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jazz-Super-1
+    second: {fileID: 2100000, guid: c6110c39c6bffc148a7b4bafb859e1f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M1
+    second: {fileID: 2100000, guid: 06d1faaecd71d8b4eb20c69ff872db25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #1'
+    second: {fileID: 2100000, guid: cc555954281150e48999b8941d599afd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #154324'
+    second: {fileID: 2100000, guid: 896619b6500b1154799c7e2aeef17951, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #743243244324234'
+    second: {fileID: 2100000, guid: 4c5434e302ad78d4bb01d43532eb7f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #7tertret43243244324234'
+    second: {fileID: 2100000, guid: 63b990f46deaac24ba0872d40e875a8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Procedural_Office_Ceiling
+    second: {fileID: 2100000, guid: 3fc40aec318630b4f8007936939293ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ufone-4G-LTE
+    second: {fileID: 2100000, guid: 41a2c289bffbe3142915a887b1847905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: White-office-space-meeting-room-table-Stock-Photo-16
+    second: {fileID: 2100000, guid: ca4a3a97d5c0ae249acbb26c0552a9fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Aluminum]'
+    second: {fileID: 2100000, guid: a9a0e3abc39f7fd46b69135cd3724e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Metal Seamed]1'
+    second: {fileID: 2100000, guid: 0955675c11f62fe4c9667ba281bd38c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Quartz Light Grey]'
+    second: {fileID: 2100000, guid: 45e404585bc846e468de0b656b2aff6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent Glass Gray]'
+    second: {fileID: 2100000, guid: 82c9d1a8e0daaf1499a3570f1386409a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _1
+    second: {fileID: 2100000, guid: 4fb9950efb872ec4f8bee04ebd3a2e98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _10
+    second: {fileID: 2100000, guid: 231db1a3105693246b6ad5f3c655478e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _11
+    second: {fileID: 2100000, guid: 2e90ce7b24d99e842a3f9e50d3147b51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _13
+    second: {fileID: 2100000, guid: d59352aa3c66b9546920f314367eddc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _14
+    second: {fileID: 2100000, guid: 5fc725cf6ed42d04e9fff3b236619bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _15
+    second: {fileID: 2100000, guid: 9582ba60ff261704e9c83aee05f52087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _16
+    second: {fileID: 2100000, guid: f2429173d0b368649b20a87be2acf299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _3
+    second: {fileID: 2100000, guid: 975c7043e655c4c42ab7774ea1f43983, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _4
+    second: {fileID: 2100000, guid: 479790c7a994a5f42b9f29dabe123b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _5
+    second: {fileID: 2100000, guid: 5461488830e182e498fdb0f9401a4447, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _6
+    second: {fileID: 2100000, guid: cb2f1fe663b71cb45b77a6c0204a6b32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _7
+    second: {fileID: 2100000, guid: 2891bde9d210d864dac192d34d5606ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _8
+    second: {fileID: 2100000, guid: 67492f21f521962449d79f0d0c6be510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acb54060f25eca03d661048711a4df4b--the-microsoft-microsoft-store
+    second: {fileID: 2100000, guid: 5d41b6bbeb7e69b4c98fd76577909fc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium
+    second: {fileID: 2100000, guid: d5c402989a607de409182cc40e21f4f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium4324234
+    second: {fileID: 2100000, guid: 5002bbe1802d9874cb4b61c3392cddcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium5345435
+    second: {fileID: 2100000, guid: bae54a37722b48b4fa7a7f584faa8d21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: aluminium53454354324234
+    second: {fileID: 2100000, guid: afa33ddce453559468e79df49297264c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: banner_galaxy-s9_intro-900x506
+    second: {fileID: 2100000, guid: 6991dcdf09b1e604b92d627be4ff80ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bb-device-sm
+    second: {fileID: 2100000, guid: 24f394f9c6f131f48bd5b7788b1dbbc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c6916885737a49d8d02730ff4e2b0a02
+    second: {fileID: 2100000, guid: c9ea968569347f746b370f48c7355dba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: creative-office-new-1
+    second: {fileID: 2100000, guid: aecc3da00dc39a141b884b02172b65bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d
+    second: {fileID: 2100000, guid: 4c6cbf7ceb9444b418e793bc93673081, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dell-store-front-in-dheli
+    second: {fileID: 2100000, guid: 37bcb1b033e0a544faf2f6e7966ff9da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dexus-office-space (1)
+    second: {fileID: 2100000, guid: 2c6ca93ea6b03584693352cdf4160652, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: download
+    second: {fileID: 2100000, guid: 88547cc1864f70f4abb523f6cc6e7e9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: images
+    second: {fileID: 2100000, guid: 712fdbdf769ccc847a0bcd356753b778, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: le
+    second: {fileID: 2100000, guid: 7cc42114101bcb04c9444177880d5418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lenovo
+    second: {fileID: 2100000, guid: fedb8a003183c134da48fee998dc8364, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m2
+    second: {fileID: 2100000, guid: 6715209ba5038ea498b1f30b7f1d354e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m3
+    second: {fileID: 2100000, guid: 76816a3ef22b97d429daa7ff997232d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m4
+    second: {fileID: 2100000, guid: 33774bafaeeda8b4ab86f182ecbe9c0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m5
+    second: {fileID: 2100000, guid: 7cb3fafcf9472744ba79a0218f8117c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: m6
+    second: {fileID: 2100000, guid: af9b1d07d0e343349ac9226a1fe6a574, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: maxresdefault (3)
+    second: {fileID: 2100000, guid: d63e7fe12be5b844984528a69a2aaf33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: news_panasonic-store-lakeside
+    second: {fileID: 2100000, guid: f28b7fccac60e7e47a63cd605aa00032, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: o1
+    second: {fileID: 2100000, guid: 0a4b208a74a25ad47ad26c195906d04f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phone-1200x521
+    second: {fileID: 2100000, guid: ab3feef63211d3e4786d12ebe43e7ea7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s
+    second: {fileID: 2100000, guid: b8c5a1d4c9626f2499adab43b4be3a6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s1
+    second: {fileID: 2100000, guid: 53c3a232e7f740c47ada5e2571a4d5b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: s2
+    second: {fileID: 2100000, guid: c17e06d871791594986daf2022280240, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: samsung_galaxy_s8_s8
+    second: {fileID: 2100000, guid: 05802cec353a6d647891f00c81b299bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shop-front
+    second: {fileID: 2100000, guid: d9b784c6d15f99444b06364c0e880d62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ss
+    second: {fileID: 2100000, guid: afd72981746e91c4583a78aa77e84440, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: storefront_inmotion_18
+    second: {fileID: 2100000, guid: 88fae64fbccf4854ea50dacebe3ae510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thumb2-hp-logo-hewlett-packard-black-background-minimal-lines-texture
+    second: {fileID: 2100000, guid: 9f1f3c3dd12362f479ba2716f8c24ad3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: toshiba-london-uk-june-detail-entrance-to-store-famous-japanese-multinational-corporation-whose-products-57300785
+    second: {fileID: 2100000, guid: cb22e14a17755e74c866344d9b27516b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 54d84a5f220b87b4fbb19519f44a685d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vidrio ventanas verde24324234
+    second: {fileID: 2100000, guid: 18a6a1b084f5c3446bb47403bf7adcd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: w
+    second: {fileID: 2100000, guid: ae08cac6755b86b4fa58902d6e1b7abc, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 042-samsung-experience-boutique-store-india-1
+    second: {fileID: 2800000, guid: fe24828089b647545b6f4cf38729836c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 1
+    second: {fileID: 2800000, guid: bb474dfbe03cf3247aa685ea26cf3f84, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2800000, guid: bf3821c0f40c887479c4e05fafcaf280, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 33
+    second: {fileID: 2800000, guid: 1d8751558b78a4842aa10cdffed2f344, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5
+    second: {fileID: 2800000, guid: 9ad3a26cb0837ea4e8f424cba66d0d38, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 5607391039_bce6d65d26_z-copy
+    second: {fileID: 2800000, guid: ac0f23d224181c940a985236e7feb657, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 80270427-3d-modern-office-space-interior-render
+    second: {fileID: 2800000, guid: 71df1d88a11a2b54d8cf4241fad358c2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 81733002-3d-modern-office-space-interior-render
+    second: {fileID: 2800000, guid: 67d3a2874dc27614b98598573408e4ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9024646f1171812609210b86e1103232
+    second: {fileID: 2800000, guid: 32caffd73501d214bac0758dda7338af, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 95e406ed5be62f6ae1d82af9e08a2a20
+    second: {fileID: 2800000, guid: c389bbb52d190494d9b9041b3eee85d6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 9a3629db836ba784b8854021d79b3d52
+    second: {fileID: 2800000, guid: 142b4c00adf0ddf4bb320d0daebc4bda, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Asus_pro_shop
+    second: {fileID: 2800000, guid: 9a64c7d83c097b3428178035e78b01fd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Capture
+    second: {fileID: 2800000, guid: 137828003971b9c4eb23aaf32f9439b0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jazz-Super-5
+    second: {fileID: 2800000, guid: 60bce5c59685e624da565161eec3b896, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: M1
+    second: {fileID: 2800000, guid: e02d737f911f942409506182152de03e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Seamed_tint0x2E2A2BFF
+    second: {fileID: 2800000, guid: 9e96de858c1966246b7f4800d886c291, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Metal_Seamed_tint0x686868FF
+    second: {fileID: 2800000, guid: abb05ab205ff0d24195112c7dd3fe5a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Quartz Light Grey
+    second: {fileID: 2800000, guid: 82279fe4c22116c42bca7ae535641c65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Ufone-4G-LTE
+    second: {fileID: 2800000, guid: db585db34ca21604a9f47ba5d90f0bae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: White-office-space-meeting-room-table-Stock-Photo-16
+    second: {fileID: 2800000, guid: ba6e80425962f044eb3fcf7ff2c4ed33, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: acb54060f25eca03d661048711a4df4b--the-microsoft-microsoft-store
+    second: {fileID: 2800000, guid: 923495ad1c5198546882c354becb78cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alum_tint0x3E302BFF
+    second: {fileID: 2800000, guid: 47ef571b702f7724183b699d1e9f67f6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: alum_tint0x443C3EFF
+    second: {fileID: 2800000, guid: 86a803ad07f569d41bd8832664b8b598, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: banner_galaxy-s9_intro-900x506
+    second: {fileID: 2800000, guid: f55e90ff5b02fce4898f5f86d7dc96db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bb-device-sm
+    second: {fileID: 2800000, guid: f3217b7770d1f4b41825d792332ea063, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: bologna[1]_tint0x5E6970FF
+    second: {fileID: 2800000, guid: 26ded42e889dbaf4cacac2c13819fddc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: c6916885737a49d8d02730ff4e2b0a02
+    second: {fileID: 2800000, guid: a86a745864c58bf4e82324fddccef4f5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ceiling2
+    second: {fileID: 2800000, guid: 7dead8d0f465cc14caf45d014f9908a8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: creative-office-new-1
+    second: {fileID: 2800000, guid: f408846cb6de7bd41b18a01a3b0e8bf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: d
+    second: {fileID: 2800000, guid: c7e1961d4f16fd444bad8fd82878c144, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dell-store-front-in-dheli
+    second: {fileID: 2800000, guid: 12de5ca930091d74da2eb88817279d98, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: dexus-office-space (1)
+    second: {fileID: 2800000, guid: 075054ec01f5ffd4da6d32f82464d9b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: download
+    second: {fileID: 2800000, guid: 662db8b8412a9434cac117fa6fd562c3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flat
+    second: {fileID: 2800000, guid: e9a595a5f64d93d4bbe9c16faf1887a6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flat_tint0x494949FF
+    second: {fileID: 2800000, guid: abf0241b6be634d42a2b8487d484b62f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flat_tint0x8C8888FF
+    second: {fileID: 2800000, guid: 232e89e38d581a943a2a46bc22b9bba8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: floor
+    second: {fileID: 2800000, guid: a2926c1545bd27a459d724a113bcc44c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: images
+    second: {fileID: 2800000, guid: 66afcdbbff5a15340ad85f66b07a8d29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: le
+    second: {fileID: 2800000, guid: 1dae37366d13a5b4883eba46d897d324, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lenovo
+    second: {fileID: 2800000, guid: 81a8f4672750bbc4ab16071d8a516621, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m2
+    second: {fileID: 2800000, guid: 5c6837d21ac03504abcf506988fa9cfd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m3
+    second: {fileID: 2800000, guid: 4dab3743881b44540ade2caacc1ac4bc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m4
+    second: {fileID: 2800000, guid: 8981ad95de2ecb947989b9008bcc80b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m5
+    second: {fileID: 2800000, guid: 22256e3db9d330a4fbbd4d239949d84b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: m6
+    second: {fileID: 2800000, guid: 73a1b6f6a090a6c429445dfa3998aaee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: maxresdefault (3)
+    second: {fileID: 2800000, guid: 9fc54b3c44229b7468c7f7d53af59124, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: news_panasonic-store-lakeside
+    second: {fileID: 2800000, guid: 0416e5bdae312984f88d526fe7109476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: o1
+    second: {fileID: 2800000, guid: e27dc29de32f04e419f286adcbaf2b2a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: phone-1200x521_tint0x4D5459FF
+    second: {fileID: 2800000, guid: ea39e9343615bee40bbb649f3a197ca7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: s
+    second: {fileID: 2800000, guid: f1dccedae042d174c94aa0673accf0d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: samsung_galaxy_s8_s8
+    second: {fileID: 2800000, guid: 70d232304a0a3bc4d96798a69b877c06, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: shop-front
+    second: {fileID: 2800000, guid: bbf56a37e76160e45bb834a0554a65ba, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ss
+    second: {fileID: 2800000, guid: 8291b00cc9c693a42980d318c0461857, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: storefront_inmotion_18
+    second: {fileID: 2800000, guid: fc3c0900a81cb48469195fd3cbd3bb65, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: thumb2-hp-logo-hewlett-packard-black-background-minimal-lines-texture
+    second: {fileID: 2800000, guid: a3ffccd649c3b58468f13b5d0da7cecf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: toshiba-london-uk-june-detail-entrance-to-store-famous-japanese-multinational-corporation-whose-products-57300785
+    second: {fileID: 2800000, guid: 835895961eb614b4ab42629553fe4cec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2800000, guid: 600b15b5982277c4ebdab33220ac20d0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: w
+    second: {fileID: 2800000, guid: a44962dfc5bc4824285a09cea018bdfa, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 2
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.0254
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  generateBackFace: 1
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 0ae7b68b55dd39e0d30bcd8e36bb2690
+  fileUnit: 0
